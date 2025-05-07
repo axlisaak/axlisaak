@@ -40,6 +40,8 @@ Intento estar positvio y no estresarme con facilidad, me gustaria ser medianamen
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
 </span>
 
 <h4> IDE </h4>
