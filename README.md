@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/Pfo4fRET778AAAAC/boku-no.gif" width="130" />
   &nbsp;&nbsp;
-  <strong>Hola soy Axel Isaak</strong>
+  <strong>Hola,soy Axel Isaak</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
   &nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/C7vl5jpZWpQAAAAC/nemuri-midnight.gif" width="130" />
