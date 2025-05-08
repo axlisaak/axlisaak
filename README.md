@@ -19,7 +19,7 @@
 <img src="https://media1.tenor.com/m/ANWct7dWdLsAAAAd/calli-%E6%A3%AE%E3%82%AB%E3%83%AA%E3%82%AA%E3%83%9A.gif" width="60px">&nbsp;***About me***
 
 
-Un simple estudianto que se hace llamar ingenriero que le gusta Las Vtubers,La musica,Jugar,Dormir y My hero academia.
+Un simple estudiante que se hace llamar ingeniero que le gusta Las Vtubers,La musica,Jugar,Dormir y My hero academia.
 Intento estar positvio y no estresarme con facilidad, me gustaria ser medianamente bueno en lo que estudio gg
 <!-- Línea de separación -->
 <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
